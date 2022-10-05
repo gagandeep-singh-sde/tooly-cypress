@@ -1,0 +1,19 @@
+{
+  "name": "tooly-cypress",
+  "version": "1.0.0",
+  "description": "A demo cypress end-to-end testing for tooly.ca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:gagandeepsinghbhujangi/tooly-cypress.git"
+  },
+  "author": "Gagandeep Singh",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
